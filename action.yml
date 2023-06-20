@@ -1,0 +1,6 @@
+name: expert-engine
+description: Does something expertly
+
+runs:
+  using: 'node16'
+  main: 'index.js'
